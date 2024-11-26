@@ -2,7 +2,7 @@
 - 🔭 Desenvolvedor Back-end
 - 👯 E-mail: victorguimaraesmax@gmail.com
 -->
-<h2 align="left">Olá 👋! Eu sou o Victor.</h2>
+<h2 align="left">Olá!👋! Eu sou o Victor!</h2>
 
 ###
 
@@ -27,8 +27,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <div width="12">
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+</div>
+
+###
+
+<div align="left">
 </div>
 
 ###
