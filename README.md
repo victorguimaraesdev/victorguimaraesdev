@@ -1,10 +1,8 @@
-## Olá! Muito prazer, eu sou o Victor. 👋
-
 <!--
 - 🔭 Desenvolvedor Back-end
 - 👯 E-mail: victorguimaraesmax@gmail.com
 -->
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hello! It's me, Victor. </h2>
 
 ###
 
