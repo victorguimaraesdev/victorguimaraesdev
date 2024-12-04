@@ -12,7 +12,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjdza2hqbDQ5MGRvN2R5dGpveHU3cnZhM2xyNzBqc3FiN2ExZTBvcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp"  />
+<img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjdza2hqbDQ5MGRvN2R5dGpveHU3cnZhM2xyNzBqc3FiN2ExZTBvcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp"  />
 
 ###
 
