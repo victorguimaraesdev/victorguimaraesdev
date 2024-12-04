@@ -3,9 +3,9 @@
 - 👯 E-mail: victorguimaraesmax@gmail.com
 -->
 
- char nome[7] = "Victor";</h5>
- char foco[12] = "Programação";</h5> 
- int idade = 27;</h5>
+ <h5>char nome[7] = "Victor";</h5>/
+ <h5>char foco[12] = "Programação";</h5> 
+ <h5>int idade = 27;</h5>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=victorguimaraesdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false?" height="150" alt="languages graph"  />
