@@ -1,6 +1,4 @@
-<div align="center" width="10" heigth="10">
- <img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" width="400" height="250" alt="languages graph" />
-</div>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=victorguimaraesdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false?" height="150" alt="languages graph"  />
 </div>
