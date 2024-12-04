@@ -2,8 +2,11 @@
 - 🔭 Desenvolvedor Back-end
 - 👯 E-mail: victorguimaraesmax@gmail.com
 -->
-<h2 align="left">Olá!👋! Eu sou o Victor!</h2>
 
+
+<h2 align="left">    char nome[7] = "Victor";
+ <h2 align="left">   char foco[12] = "Programação";
+ <h2 align="left">   int idade = 27
 ###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=victorguimaraesdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false?" height="150" alt="languages graph"  />
