@@ -5,13 +5,12 @@
 <h2 align="left">Olá!👋! Eu sou o Victor!</h2>
 
 ###
-
 <div align="center">
+  <img width="100" height="100" align="center" src="https://img.icons8.com/metro/26/source-code.png" alt="source-code"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=victorguimaraesdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false?" height="150" alt="languages graph"  />
 </div>
 
 ###
-<img width="100" height="100" align="center" src="https://img.icons8.com/metro/26/source-code.png" alt="source-code"/>
 <div align="center"">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
   <img width="20" />
