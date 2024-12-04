@@ -3,7 +3,7 @@
 - 👯 E-mail: victorguimaraesmax@gmail.com
 -->
 
- <h5>char nome[7] = "Victor";</h5>/
+ <h5>char nome[7] = "Victor";</h5>
  <h5>char foco[12] = "Programação";</h5> 
  <h5>int idade = 27;</h5>
 
