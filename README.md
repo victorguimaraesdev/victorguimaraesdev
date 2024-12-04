@@ -1,3 +1,6 @@
+<div align="center" width="50" heigth="50">
+ <img src="https://br.pinterest.com/pin/764063893055046514/"/>
+</div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=victorguimaraesdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false?" height="150" alt="languages graph"  />
 </div>
