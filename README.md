@@ -12,10 +12,6 @@
 
 ###
 
-<img align="center" heigth="100" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjdza2hqbDQ5MGRvN2R5dGpveHU3cnZhM2xyNzBqc3FiN2ExZTBvcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp"  />
-
-###
-
 <div align="center"">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
   <img width="20" />
