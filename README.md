@@ -23,5 +23,8 @@
 
 ## Sobre Mim
 
-Meu nome é **Victor Guimaraes**, tenho **27 anos**, estou cursando **Engenharia de Software** focado no **Back-end**
+Nome: **Victor Guimaraes**,<br>
+Idade: **27 anos**, 
+faculdade: **Engenharia de Software** 
+foco: **Back-End**
 
