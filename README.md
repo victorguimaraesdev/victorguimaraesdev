@@ -23,5 +23,5 @@
 
 ## Sobre Mim
 
-Meu nome é **Victor Guimaraes**, tenho **27 anos** e estou cursando **Engenharia de Software**. Sou um estudante focado nas tecnologias que utilizei nos meus projetos, como **JavaScript**, **HTML**, **CSS**, **C**, **Node.js**, e **Prisma**. Estou sempre em busca de novos desafios e aprendizado prático no desenvolvimento de software.
+Meu nome é **Victor Guimaraes**, tenho **27 anos** e estou cursando **Engenharia de Software**. Sou um estudante focado em tecnologias  como **JavaScript**, **HTML**, **CSS**, **C**, **Node.js**, e **Prisma**. Estou sempre em busca de novos desafios e aprendizado prático no desenvolvimento de software.
 
