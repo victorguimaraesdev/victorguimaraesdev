@@ -3,7 +3,7 @@
 </div>
 
 ---
-<div align="center">### Linguagens e Tecnologias </div>
+<div align="center"> <h1>Linguagens e Tecnologias </h1></div>
 
 
 <div align="center">
