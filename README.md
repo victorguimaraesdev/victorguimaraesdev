@@ -23,6 +23,6 @@
 
 Nome: **Victor Guimaraes**,<br>
 Idade: **27 anos**, <br>
-faculdade: **Engenharia de Software** <br> 
-foco: **Back-End** <br>
+Faculdade: **Engenharia de Software** <br> 
+Foco: **Back-End** <br>
 
