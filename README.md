@@ -8,12 +8,16 @@
 <div align="center">
   <h1>Linguagens e Tecnologias</h1>
 </div>
+
 <div align="center">
+
 |                       |                       |                       |                       |                       |                       |
 |-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|
 | **JavaScript**        | **HTML5**             | **CSS3**              | **C**                 | **Node.js**           | **MySQL**             |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript logo"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5 logo"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3 logo"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C logo"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js logo"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL logo"> |
+
 </div>
+
 
 
 ---
