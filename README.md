@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://t3.ftcdn.net/jpg/07/96/02/16/360_F_796021659_T0fEiTbS0k3iae6UdY8iBESVDBFoMqkH.jpg" heigth="150" width="150">
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=victorguimaraesdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false?" height="150" alt="languages graph" />
 </div>
 <div align="center">
