@@ -29,6 +29,6 @@
 Nome: **Victor Guimaraes**,<br>
 Idade: **27 anos**, <br>
 Faculdade: **Engenharia de Software [1/4]** <br> 
-Foco: **Front-End** <br>
+Foco: **Front-end** <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/victor-guimaraes-05b608275/?trk=opento_sprofile_goalscard)
 
