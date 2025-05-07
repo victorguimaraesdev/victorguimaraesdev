@@ -34,9 +34,11 @@
 
 ## Sobre Mim
 
-Nome: **Victor Guimaraes**,<br>
-Idade: **27 anos**, <br>
-Faculdades: **Engenharia de Software [1/4]** <br> 
-Foco: **Back-end** <br>
+👋 **Olá! Sou Victor Guimaraes**, um desenvolvedor em constante evolução, atualmente cursando **Engenharia de Software (1/4)**.  
+Com foco em **Back-end**, estou sempre em busca de novas oportunidades para expandir meu conhecimento e aplicar minhas habilidades em projetos desafiadores.
+
+🌐 Tenho experiência no desenvolvimento de APIs, aplicações web e soluções de software, com ênfase em boas práticas e desempenho.
+
+📧 **E-mail:** [victorguimaraesmax@gmail.com](mailto:victorguimaraesmax@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/victor-guimaraes-05b608275/?trk=opento_sprofile_goalscard)
 
