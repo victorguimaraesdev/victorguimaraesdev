@@ -19,11 +19,12 @@
 
 | **Node.js**           | **React**             | **Electron**          | **Axios**             |
 |-----------------------|-----------------------|-----------------------|-----------------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js logo"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React logo"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="50" alt="Electron logo"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-original.svg" height="50" alt="Axios logo"> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js logo"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React logo"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="50" alt="Electron logo"> | <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Axios_logo.png" height="50" alt="Axios logo"> |
 
 | **Express**           | **styled-components** |                       |                       |
 |-----------------------|-----------------------|-----------------------|-----------------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="Express logo"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/styled-components/styled-components-original.svg" height="50" alt="styled-components logo"> | | |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="Express logo"> | <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/Styled-components-logo.png" height="50" alt="styled-components logo"> | | |
+
 
 
 
