@@ -34,7 +34,8 @@
 
 ## Sobre Mim
 
-👋 <Hello World!>
+##👋 <Hello World!>
+</br>
  Sou o Victor desenvolvedor full stack, tenho 27 e adoro
  transformar ideias em projetos que realmente funcionam.
  Gosto de trabalhar tanto no front quanto no back-end.
