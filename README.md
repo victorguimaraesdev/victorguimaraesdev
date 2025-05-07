@@ -34,11 +34,13 @@
 
 ## Sobre Mim
 
-👋 **Olá! Sou Victor Guimaraes**, um desenvolvedor em constante evolução, atualmente cursando **Engenharia de Software (1/4)**.  
-Com foco em **Back-end**, estou sempre em busca de novas oportunidades para expandir meu conhecimento e aplicar minhas habilidades em projetos desafiadores.
-
-🌐 Tenho experiência no desenvolvimento de APIs, aplicações web e soluções de software, com ênfase em boas práticas e desempenho.
-
-📧 **E-mail:** [victorguimaraesmax@gmail.com](mailto:victorguimaraesmax@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/victor-guimaraes-05b608275/?trk=opento_sprofile_goalscard)
+👋 <Hello World!>
+ Sou o Victor desenvolvedor full stack, tenho 27 e adoro
+ transformar ideias em projetos que realmente funcionam.
+ Gosto de trabalhar tanto no front quanto no back-end.
+ Curioso por natureza, estou sempre aprendendo algo novo e
+ acredito que a melhor forma de evoluir é colocando a mão
+ na massa. 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/victor-guimaraes-05b608275/?trk=opento_sprofile_goalscard)  
+[![E-mail](https://img.shields.io/badge/E--mail-red?logo=gmail)](mailto:victorguimaraesmax@gmail.com)
 
