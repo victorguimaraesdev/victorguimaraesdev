@@ -13,9 +13,18 @@
 <div align="center">
 
                                                                                                                                       
-| **JavaScript**        | **TypeScript**        | **HTML5**             | **CSS3**              | **Node.js**           | **React**             | **Electron**          | **Axios**             |
-|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript logo"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript logo"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5 logo"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3 logo"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js logo"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React logo"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="50" alt="Electron logo"> | <img src="https://icon.icepanel.io/Technology/svg/Azios.svg" height="50" alt="Axios logo"> |
+| **JavaScript** | **TypeScript** | **HTML5** |
+|----------------|-----------------|------------|
+| ![JavaScript logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) | ![TypeScript logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg) | ![HTML5 logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) |
+
+| **CSS3** | **Node.js** | **React** |
+|-----------|--------------|------------|
+| ![CSS3 logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) | ![Node.js logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) | ![React logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) |
+
+| **Electron** | **Axios** | |
+|---------------|-----------|--|
+| ![Electron logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg) | ![Axios logo](https://icon.icepanel.io/Technology/svg/Azios.svg) | |
+
 
 
 
