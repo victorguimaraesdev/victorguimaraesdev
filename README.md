@@ -13,21 +13,48 @@
 <div align="center">
 
                                                                                                                                       
-| **JavaScript** | **TypeScript** | **HTML5** |
-|----------------|----------------|------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width:50px; height:50px; display: block; margin: 0 auto;"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="width:50px; height:50px; display: block; margin: 0 auto;"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="width:50px; height:50px; display: block; margin: 0 auto;"> |
-
-| **CSS3** | **Node.js** | **React** |
-|-----------|--------------|------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="width:50px; height:50px; display: block; margin: 0 auto;"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="width:50px; height:50px; display: block; margin: 0 auto;"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="width:50px; height:50px; display: block; margin: 0 auto;"> |
-
-| **Electron** | **Axios** | **C#** |
-|---------------|-----------|--------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" style="width:50px; height:50px; display: block; margin: 0 auto;"> | <img src="https://icon.icepanel.io/Technology/svg/Azios.svg" style="width:50px; height:50px; display: block; margin: 0 auto;"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="width:50px; height:50px; display: block; margin: 0 auto;"> |
-
-| **.NET** | | |
-|-----------|--|--|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/456px-Microsoft_.NET_logo.svg.png" style="width:50px; height:50px; display: block; margin: 0 auto;"> | | |
+<table style="width:100%;">
+  <tr>
+    <th style="text-align: center;">JavaScript</th>
+    <th style="text-align: center;">TypeScript</th>
+    <th style="text-align: center;">HTML5</th>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"></td>
+    <td style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"></td>
+    <td style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"></td>
+  </tr>
+  <tr>
+    <th style="text-align: center;">CSS3</th>
+    <th style="text-align: center;">Node.js</th>
+    <th style="text-align: center;">React</th>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"></td>
+    <td style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"></td>
+    <td style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"></td>
+  </tr>
+  <tr>
+    <th style="text-align: center;">Electron</th>
+    <th style="text-align: center;">Axios</th>
+    <th style="text-align: center;">C#</th>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="50" height="50"></td>
+    <td style="text-align: center;"><img src="https://icon.icepanel.io/Technology/svg/Azios.svg" width="50" height="50"></td>
+    <td style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50"></td>
+  </tr>
+  <tr>
+    <th style="text-align: center;">.NET</th>
+    <th style="text-align: center;">Redux</th>
+    <th style="text-align: center;">Express</th>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" width="50" height="50"></td>
+    <td style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" height="50"></td>
+    <td style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50"></td>
+  </tr>
+</table>
 
 
 
