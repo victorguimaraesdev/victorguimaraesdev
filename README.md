@@ -14,16 +14,17 @@
 
                                                                                                                                       
 | **JavaScript** | **TypeScript** | **HTML5** |
-|----------------|-----------------|------------|
-| ![JavaScript logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) | ![TypeScript logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg) | ![HTML5 logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) |
+|----------------|----------------|------------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"> |
 
 | **CSS3** | **Node.js** | **React** |
 |-----------|--------------|------------|
-| ![CSS3 logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) | ![Node.js logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) | ![React logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"> |
 
 | **Electron** | **Axios** | |
 |---------------|-----------|--|
-| ![Electron logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg) | ![Axios logo](https://icon.icepanel.io/Technology/svg/Azios.svg) | |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="50" height="50"> | <img src="https://icon.icepanel.io/Technology/svg/Azios.svg" width="50" height="50"> | |
+
 
 
 
