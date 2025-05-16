@@ -21,9 +21,14 @@
 |-----------|--------------|------------|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="width:50px; height:50px; display: block; margin: 0 auto;"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="width:50px; height:50px; display: block; margin: 0 auto;"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="width:50px; height:50px; display: block; margin: 0 auto;"> |
 
-| **Electron** | **Axios** | |
-|---------------|-----------|--|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" style="width:50px; height:50px; display: block; margin: 0 auto;"> | <img src="https://icon.icepanel.io/Technology/svg/Azios.svg" style="width:50px; height:50px; display: block; margin: 0 auto;"> | |
+| **Electron** | **Axios** | **C#** |
+|---------------|-----------|--------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" style="width:50px; height:50px; display: block; margin: 0 auto;"> | <img src="https://icon.icepanel.io/Technology/svg/Azios.svg" style="width:50px; height:50px; display: block; margin: 0 auto;"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="width:50px; height:50px; display: block; margin: 0 auto;"> |
+
+| **.NET** | | |
+|-----------|--|--|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg" style="width:50px; height:50px; display: block; margin: 0 auto;"> | | |
+
 
 
 
