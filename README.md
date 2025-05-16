@@ -15,15 +15,16 @@
                                                                                                                                       
 | **JavaScript** | **TypeScript** | **HTML5** |
 |----------------|----------------|------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width:50px; height:50px;"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="width:50px; height:50px;"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="width:50px; height:50px;"> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width:50px; height:50px; display: block; margin: 0 auto;"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="width:50px; height:50px; display: block; margin: 0 auto;"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="width:50px; height:50px; display: block; margin: 0 auto;"> |
 
 | **CSS3** | **Node.js** | **React** |
 |-----------|--------------|------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="width:50px; height:50px;"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="width:50px; height:50px;"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="width:50px; height:50px;"> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="width:50px; height:50px; display: block; margin: 0 auto;"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="width:50px; height:50px; display: block; margin: 0 auto;"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="width:50px; height:50px; display: block; margin: 0 auto;"> |
 
 | **Electron** | **Axios** | |
 |---------------|-----------|--|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" style="width:50px; height:50px;"> | <img src="https://icon.icepanel.io/Technology/svg/Azios.svg" style="width:50px; height:50px;"> | |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" style="width:50px; height:50px; display: block; margin: 0 auto;"> | <img src="https://icon.icepanel.io/Technology/svg/Azios.svg" style="width:50px; height:50px; display: block; margin: 0 auto;"> | |
+
 
 
 
