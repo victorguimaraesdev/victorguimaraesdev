@@ -27,7 +27,7 @@
 
 | **.NET** | | |
 |-----------|--|--|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg" style="width:50px; height:50px; display: block; margin: 0 auto;"> | | |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/456px-Microsoft_.NET_logo.svg.png" style="width:50px; height:50px; display: block; margin: 0 auto;"> | | |
 
 
 
