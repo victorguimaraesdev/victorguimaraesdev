@@ -55,9 +55,6 @@
 
   <tr>
     <th style="text-align: center;">MySQL</th>
-    <th></th>
-    <th></th>
-    <th></th>
   </tr>
   <tr>
     <td style="display: flex; justify-content: center; align-items: center;">
