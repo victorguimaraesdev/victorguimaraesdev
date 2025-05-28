@@ -60,9 +60,6 @@
     <td style="display: flex; justify-content: center; align-items: center;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50">
     </td>
-    <td></td>
-    <td></td>
-    <td></td>
   </tr>
 </table>
 
