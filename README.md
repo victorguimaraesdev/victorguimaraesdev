@@ -52,18 +52,24 @@
     <td style="display: flex; justify-content: center; align-items: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" height="50"></td>
     <td style="display: flex; justify-content: center; align-items: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50"></td>
   </tr>
+
+  <tr>
+    <th style="text-align: center;">MySQL</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td style="display: flex; justify-content: center; align-items: center;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50">
+    </td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
 
-
-
-
-
-
-
 </div>
-
-
-
 ---
 
 ## Sobre Mim
