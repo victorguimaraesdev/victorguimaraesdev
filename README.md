@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=victorguimaraesdev&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=merko&hide_border=false&cache_seconds=86400" height="200" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=victorguimaraesdev&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=merko&hide_border=false&cache_seconds=1" height="200" alt="languages graph" />
 </div>
 
 <div align="center">
