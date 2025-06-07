@@ -21,10 +21,18 @@
     <th style="text-align: center;">CSS3</th>
   </tr>
   <tr>
-    <td style="display: flex; justify-content: center; align-items: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"></td>
-    <td style="display: flex; justify-content: center; align-items: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"></td>
-    <td style="display: flex; justify-content: center; align-items: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"></td>
-    <td style="display: flex; justify-content: center; align-items: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"></td>
+    <td style="display: flex; justify-content: center; align-items: center;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50">
+    </td>
+    <td style="display: flex; justify-content: center; align-items: center;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50">
+    </td>
+    <td style="display: flex; justify-content: center; align-items: center;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50">
+    </td>
+    <td style="display: flex; justify-content: center; align-items: center;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50">
+    </td>
   </tr>
 
   <tr>
@@ -34,10 +42,18 @@
     <th style="text-align: center;">Axios</th>
   </tr>
   <tr>
-    <td style="display: flex; justify-content: center; align-items: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"></td>
-    <td style="display: flex; justify-content: center; align-items: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"></td>
-    <td style="display: flex; justify-content: center; align-items: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="50" height="50"></td>
-    <td style="display: flex; justify-content: center; align-items: center;"><img src="https://icon.icepanel.io/Technology/svg/Azios.svg" width="50" height="50"></td>
+    <td style="display: flex; justify-content: center; align-items: center;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50">
+    </td>
+    <td style="display: flex; justify-content: center; align-items: center;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50">
+    </td>
+    <td style="display: flex; justify-content: center; align-items: center;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="50" height="50">
+    </td>
+    <td style="display: flex; justify-content: center; align-items: center;">
+      <img src="https://icon.icepanel.io/Technology/svg/Azios.svg" width="50" height="50">
+    </td>
   </tr>
 
   <tr>
@@ -47,15 +63,47 @@
     <th style="text-align: center;">Express</th>
   </tr>
   <tr>
-    <td style="display: flex; justify-content: center; align-items: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50"></td>
-    <td style="display: flex; justify-content: center; align-items: center;"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" width="50" height="50"></td>
-    <td style="display: flex; justify-content: center; align-items: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" height="50"></td>
-    <td style="display: flex; justify-content: center; align-items: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50"></td>
+    <td style="display: flex; justify-content: center; align-items: center;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50">
+    </td>
+    <td style="display: flex; justify-content: center; align-items: center;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" width="50" height="50">
+    </td>
+    <td style="display: flex; justify-content: center; align-items: center;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" height="50">
+    </td>
+    <td style="display: flex; justify-content: center; align-items: center;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50">
+    </td>
+  </tr>
+
+  <tr>
+    <th style="text-align: center;">MongoDB</th>
+    <th style="text-align: center;">MySQL</th>
+    <th style="text-align: center;">Git</th>
+    <th style="text-align: center;">GitHub</th>
+  </tr>
+  <tr>
+    <td style="display: flex; justify-content: center; align-items: center;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50">
+    </td>
+    <td style="display: flex; justify-content: center; align-items: center;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50">
+    </td>
+    <td style="display: flex; justify-content: center; align-items: center;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50">
+    </td>
+    <td style="display: flex; justify-content: center; align-items: center;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50">
+    </td>
   </tr>
 </table>
 
+
+
+
 </div>
----
+
 
 ## Sobre Mim
 
