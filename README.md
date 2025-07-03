@@ -81,7 +81,7 @@
     <th style="text-align: center;">MongoDB</th>
     <th style="text-align: center;">MySQL</th>
     <th style="text-align: center;">Git</th>
-    <th style="text-align: center;">GitHub</th>
+    <th style="text-align: center;">Postman</th>
   </tr>
   <tr>
     <td style="display: flex; justify-content: center; align-items: center;">
@@ -94,10 +94,11 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50">
     </td>
     <td style="display: flex; justify-content: center; align-items: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50">
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50">
     </td>
   </tr>
 </table>
+
 
 
 
