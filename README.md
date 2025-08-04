@@ -44,7 +44,7 @@
   <tr>
     <th>React</th>
     <th>Axios</th>
-    <th>Styled-c</th>
+    <th>Styled</th>
     <th>Redux</th>
   </tr>
   <tr>
