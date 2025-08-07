@@ -92,7 +92,5 @@ Sou o **Victor**, desenvolvedor **full stack** de 27 anos, apaixonado por transf
 
 🧠 Curioso por natureza, adoro trabalhar tanto no **front-end** quanto no **back-end**, sempre buscando aprender novas tecnologias e aperfeiçoar meus projetos colocando a mão na massa.
 
-💬 Vamos nos conectar!
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/victor-guimaraes-05b608275/)  
 [![E-mail](https://img.shields.io/badge/E--mail-red?logo=gmail)](mailto:victorguimaraesmax@gmail.com)
