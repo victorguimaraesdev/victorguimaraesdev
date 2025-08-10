@@ -26,59 +26,73 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" /></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" /></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" /></td>
-  </tr>
+</tr>
 
-  <tr>
+<tr>
     <th>Node.js</th>
     <th>Express</th>
     <th>Prisma</th>
     <th>Electron</th>
-  </tr>
-  <tr>
+</tr>
+<tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" /></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" /></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="50" /></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="50" /></td>
-  </tr>
+</tr>
 
-  <tr>
+<tr>
     <th>React</th>
     <th>Axios</th>
-    <th>Styled</th>
+    <th>Styled Components </th>
     <th>Redux</th>
-  </tr>
-  <tr>
+</tr>
+<tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" /></td>
     <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Azios.svg" width="50" /></td>
     <td align="center"><img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" width="50" /></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" /></td>
-  </tr>
+</tr>
 
-  <tr>
+<tr>
+    <th>Next.js</th>
+    <th>Tailwind</th>
+    <th>GitHub</th>
+    <th>Entity Framework</th>
+</tr>
+<tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" /></td>
+    <td align="center"><img src="https://bradlc.gallerycdn.vsassets.io/extensions/bradlc/vscode-tailwindcss/0.2.0/1558040563649/Microsoft.VisualStudio.Services.Icons.Default" width="50" /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" /></td>
+    <td align="center"><img src="https://miro.medium.com/v2/resize:fit:591/1*4HIU0YdDkj0dmGySVC5D_g.png" width="50" /></td>
+</tr>
+
+<tr>
     <th>C#</th>
     <th>.NET</th>
     <th>Postman</th>
     <th>Git</th>
-  </tr>
-  <tr>
+</tr>
+<tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" /></td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" width="50" /></td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" /></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" /></td>
-  </tr>
+</tr>
 
-  <tr>
+<tr>
     <th>MySQL</th>
     <th>MongoDB</th>
     <th>Insomnia</th>
     <th>Docker</th>
-  </tr>
-  <tr>
+</tr>
+<tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" /></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" /></td>
     <td align="center"><img src="https://user-images.githubusercontent.com/2575745/67964810-4d9a2980-fbd7-11e9-8cf7-661ded187ee6.png" width="50" /></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" /></td>
-  </tr>
+</tr>
+
 </table>
 
 </div>
