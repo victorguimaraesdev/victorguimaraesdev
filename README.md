@@ -15,13 +15,13 @@
 <div align="center">
 
 <table>
-  <tr>
+ <tr>
     <th>JavaScript</th>
     <th>TypeScript</th>
     <th>HTML5</th>
     <th>CSS3</th>
-  </tr>
-  <tr>
+</tr>
+<tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" /></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" /></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" /></td>
@@ -44,7 +44,7 @@
 <tr>
     <th>React</th>
     <th>Axios</th>
-    <th>Styled Components </th>
+    <th>Styled Components</th>
     <th>Redux</th>
 </tr>
 <tr>
@@ -57,40 +57,40 @@
 <tr>
     <th>Next.js</th>
     <th>Tailwind</th>
-    <th>GitHub</th>
-    <th>Entity Framework</th>
+    <th>Postman</th>
+    <th>Insomnia</th>
 </tr>
 <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" /></td>
     <td align="center"><img src="https://bradlc.gallerycdn.vsassets.io/extensions/bradlc/vscode-tailwindcss/0.2.0/1558040563649/Microsoft.VisualStudio.Services.Icons.Default" width="50" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" /></td>
-    <td align="center"><img src="https://miro.medium.com/v2/resize:fit:591/1*4HIU0YdDkj0dmGySVC5D_g.png" width="50" /></td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" /></td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/2575745/67964810-4d9a2980-fbd7-11e9-8cf7-661ded187ee6.png" width="50" /></td>
 </tr>
 
 <tr>
     <th>C#</th>
     <th>.NET</th>
-    <th>Postman</th>
-    <th>Git</th>
+    <th>Entity Framework</th>
+    <th>Docker</th>
 </tr>
 <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" /></td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" width="50" /></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" /></td>
+    <td align="center"><img src="https://miro.medium.com/v2/resize:fit:591/1*4HIU0YdDkj0dmGySVC5D_g.png" width="50" /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" /></td>
 </tr>
 
 <tr>
     <th>MySQL</th>
     <th>MongoDB</th>
-    <th>Insomnia</th>
-    <th>Docker</th>
+    <th>Git</th>
+    <th>GitHub</th>
 </tr>
 <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" /></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" /></td>
-    <td align="center"><img src="https://user-images.githubusercontent.com/2575745/67964810-4d9a2980-fbd7-11e9-8cf7-661ded187ee6.png" width="50" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" /></td>
 </tr>
 
 </table>
